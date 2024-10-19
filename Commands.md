@@ -1,5 +1,4 @@
-# Git Commands Reference
-
+# Git Commands
 ## Git Installation
 - Install Git using winget:
   winget install --id Git.Git -e --source winget
